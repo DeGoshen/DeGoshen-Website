@@ -13,11 +13,11 @@ document.querySelectorAll('.nav-links a').forEach(link => {
 });
 
 // Form handler
-const contactForm = document.getElementById('contactForm');
+/*const contactForm = document.getElementById('contactForm');
 if(contactForm) {
     contactForm.addEventListener('submit', (e) => {
         e.preventDefault();
         alert('Thank you! We will contact you shortly.');
         contactForm.reset();
     });
-}
+}*/
